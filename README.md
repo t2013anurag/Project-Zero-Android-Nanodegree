@@ -1,4 +1,4 @@
-[![Build Status] https://travis-ci.org/t2013anurag/Project-Zero-Android-Nanodegree.svg?branch=master)](https://travis-ci.org/t2013anurag/Project-Zero-Android-Nanodegree)
+[![Build Status](https://travis-ci.org/t2013anurag/Project-Zero-Android-Nanodegree.svg?branch=master)](https://travis-ci.org/t2013anurag/Project-Zero-Android-Nanodegree)
 
 
 # Project-Zero-Android-Nanodegree
