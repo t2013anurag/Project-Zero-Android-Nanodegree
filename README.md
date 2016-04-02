@@ -14,4 +14,5 @@ This app will be updated to keep track of all the other apps created during the 
 v1.1
 Updated app for ScrollView on Landscape View.
 Used Relative Layout instead of Linear Layout.
+Integrated Travis continuous integration
 
